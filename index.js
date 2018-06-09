@@ -1,3 +1,1 @@
-function add(a, b) {
-  sum = a + b;
-}
+add(a, b);
