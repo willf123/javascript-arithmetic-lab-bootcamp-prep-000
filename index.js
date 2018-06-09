@@ -1,3 +1,1 @@
-function myAddFunction(a, b) {
-  return a + b;
-}
+add(a, b);
