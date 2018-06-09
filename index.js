@@ -1,1 +1,3 @@
-add(1, 80);
+function add() {
+  add(a, b).toEqual(a + b);
+}
