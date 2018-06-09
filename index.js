@@ -1,3 +1,3 @@
-function (a, b){
+function expect(a, b){
   add(a, b);
 }
